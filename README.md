@@ -102,6 +102,40 @@ $$x_{\text{reconstructed}}[n] = \frac{1}{N} \sum_{k=0}^{N-1} (X[k] \cdot H[k]) \
 
 ---
 
+## System Demonstration & Interactive Features Walkthrough
+
+The platform exhibits real-time algorithmic execution, synchronous dual-canvas timeline updates, and dynamic magnitude attenuation under various specialized configurations. Below are the execution recordings for each mode:
+
+<table>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>[DEMO 1] Generic Equalization Mode</b></p>
+      <video src="https://github.com/user-attachments/assets/b42b9f79-8af4-4f77-b2c4-6af7f03da882" controls width="100%">Your browser does not support the video tag.</video>
+    </td>
+    <td width="50%">
+      <p align="center"><b>[DEMO 2] Musical Instruments Separation Mode</b></p>
+      <video src="https://github.com/user-attachments/assets/9b399a93-f29c-47dd-a728-54cebde54c8d" controls width="100%">Your browser does not support the video tag.</video>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>[DEMO 3] Animal Sounds Attenuation Mode</b></p>
+      <video src="https://github.com/user-attachments/assets/0857ab7a-abf6-475b-aec7-52cd993ea5b3" controls width="100%">Your browser does not support the video tag.</video>
+    </td>
+    <td width="50%">
+      <p align="center"><b>[DEMO 4] Human Voices Isolation Mode</b></p>
+      <video src="https://github.com/user-attachments/assets/1072ff78-c475-48c8-8086-d8a1ea8b5ea9" controls width="100%">Your browser does not support the video tag.</video>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>[DEMO 5] Audiogram vs Linear Scale Viewport Switching</b></p>
+      <video src="https://github.com/user-attachments/assets/e2020c2b-0e22-4b78-9936-6424f560adef" controls width="100%">Your browser does not support the video tag.</video>
+    </td>
+  </tr>
+</table>
+---
+
 ## Repository Directory Tree
 
 ```text
