@@ -164,11 +164,3 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](https://www.google.com/search?q=http://localhost:3000) on your terminal browser to access the equalizer dashboard.
-
-```
-
----
-
-هذا التنسيق متكامل ومطابق تماماً لكل ملفات مشروعك الجديدة، ومكتوب بأسلوب أكاديمي هندسي جذاب جداً لأصحاب المشاريع على مواقع العمل الحر. بالتوفيق يا ليان، وأنا معكِ إذا احتجتِ أي تعديل أو إضافة في أي جزء!
-
-```
