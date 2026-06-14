@@ -1,0 +1,32 @@
+{
+  "sliders": [
+    {
+      "name": "Farah",
+      "gain": 1,
+      "windows": [
+        { "start": 154, "end": 275 }
+      ]
+    },
+    {
+      "name": "Boy",
+      "gain": 1,
+      "windows": [
+        { "start": 285, "end": 360 }
+      ]
+    },
+    {
+      "name": "Old man",
+      "gain": 1,
+      "windows": [
+        { "start": 461, "end": 735 }
+      ]
+    },
+    {
+      "name": "Devi",
+      "gain": 1,
+      "windows": [
+        { "start": 747, "end": 810 }
+      ]
+    }
+  ]
+}

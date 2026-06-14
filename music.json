@@ -1,0 +1,32 @@
+{
+  "sliders": [
+    {
+      "name": "Guitar",
+      "gain": 1,
+      "windows": [
+        { "start": 60, "end": 250 }
+      ]
+    },
+    {
+      "name": "Violin",
+      "gain": 1,
+      "windows": [
+        { "start": 500, "end": 2000 }
+      ]
+    },
+    {
+      "name": "Trumpet",
+      "gain": 1,
+      "windows": [
+        { "start": 250, "end": 500 }
+      ]
+    },
+    {
+      "name": "Hi-Hat drum",
+      "gain": 1,
+      "windows": [
+        { "start": 2000, "end": 20000 }
+      ]
+    }
+  ]
+}

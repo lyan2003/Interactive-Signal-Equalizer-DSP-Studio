@@ -1,0 +1,32 @@
+{
+  "sliders": [
+    {
+      "name": "Birds",
+      "gain": 1,
+      "windows": [
+        { "start": 2000, "end": 8000 }
+      ]
+    },
+    {
+      "name": "Dogs",
+      "gain": 1,
+      "windows": [
+        { "start": 300, "end": 900 }
+      ]
+    },
+    {
+      "name": "Cats",
+      "gain": 1,
+      "windows": [
+        { "start": 500, "end": 3000 }
+      ]
+    },
+    {
+      "name": "Elephants",
+      "gain": 1,
+      "windows": [
+        { "start": 6000, "end": 12000 }
+      ]
+    }
+  ]
+}
